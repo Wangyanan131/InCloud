@@ -1,8 +1,0 @@
-pic.kuaishangche.top:443
-pic.kuaishangche.top:80
-pic.kuaishangche.top:8080
-pic.kuaishangche.top:8443
-www.kuaishangche.top:443
-www.kuaishangche.top:80
-www.kuaishangche.top:8080
-www.kuaishangche.top:8443
